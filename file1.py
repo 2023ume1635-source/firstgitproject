@@ -1,1 +1,0 @@
-print("Roshan loves Bhumika")
